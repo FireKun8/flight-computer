@@ -1,4 +1,4 @@
-# flight-computer
+# Flight Computer
 Model rocketry basic flight computer with Arduino.
 
 Components:
